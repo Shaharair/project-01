@@ -1,0 +1,414 @@
+@media (max-width:575px){
+    .menu-bg ul li{
+        padding: 10px 0;
+    }
+    .menu-bg button{
+        border: 4px solid red;
+    }
+    .menu-bg .navbar-toggler i{
+        color: red;
+        font-size: 30px;
+    }
+    .banner_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .desing_men h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_men p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .desing_van h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_van p{
+        font-weight: 400;
+    }
+    .desing_can h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_can p{
+        font-weight: 400;
+    }
+    .desing_dan h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_dan p{
+        font-weight: 400;
+    }
+    .view_text h3{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .view_img img{
+        width: 100%;
+    }
+    .card_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .heading_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .heading_bk h2{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .blog_one h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .blog_one p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .blog_two h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .blog_two p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_text h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_one h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_one p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_two h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_two p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .footer_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .footer_icone h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .footer_icone p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .menu_text h6{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .menu_men ul li{
+        margin-top: -30px;
+        padding-left: 8px;
+    }
+    .menu_men ul li a{
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+    .menu-bg ul li{
+        padding: 10px 0;
+    }
+    .menu-bg button{
+        border: 4px solid red;
+    }
+    .menu-bg .navbar-toggler i{
+        color: red;
+        font-size: 30px;
+    }
+    .banner_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .desing_men h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_men p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .desing_van h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_van p{
+        font-weight: 400;
+    }
+    .desing_can h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_can p{
+        font-weight: 400;
+    }
+    .desing_dan h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_dan p{
+        font-weight: 400;
+    }
+    .view_text h3{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .view_img img{
+        width: 100%;
+    }
+    .card_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .heading_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .heading_bk h2{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .blog_one h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .blog_one p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .blog_two h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .blog_two p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_text h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_one h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_one p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_two h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_two p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .footer_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .footer_icone h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .footer_icone p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .menu_text h6{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .menu_men ul li{
+        margin-top: -30px;
+        padding-left: 8px;
+    }
+    .menu_men ul li a{
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .menu-bg ul li{
+        padding: 10px 0;
+    }
+    .menu-bg button{
+        border: 4px solid red;
+    }
+    .menu-bg .navbar-toggler i{
+        color: red;
+        font-size: 30px;
+    }
+    .banner_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .desing_men h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_men p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .desing_van h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_van p{
+        font-weight: 400;
+    }
+    .desing_can h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_can p{
+        font-weight: 400;
+    }
+    .desing_dan h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .desing_dan p{
+        font-weight: 400;
+    }
+    .view_text h3{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .view_img img{
+        width: 100%;
+    }
+    .card_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .heading_text h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .heading_bk h2{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .blog_one h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .blog_one p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .blog_two h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .blog_two p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_text h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_one h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_one p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our_two h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .our_two p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .footer_text p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .footer_icone h2{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .footer_icone p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .menu_text h6{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .menu_men ul li{
+        margin-top: -30px;
+        padding-left: 8px;
+    }
+    .menu_men ul li a{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .blog_one{
+        width: 100%;
+    }
+    .card_cana{
+        margin-bottom: 20px;
+    }
+}
